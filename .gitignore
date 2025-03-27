@@ -1,0 +1,21 @@
+# 忽略第三方依赖库
+/boost_1_87_0/
+/CGAL-6.0.1/
+/Cppad/
+/eigen-3.3.9/
+/gmp/
+/lpopt-3.14.16/
+/MPIR-Binary/
+/occ75_win64/
+/SCS/
+/tctlk_win64/
+/zlib_win64/
+
+# 忽略其他二进制文件
+*.dll
+*.lib
+*.exe
+*.obj
+*.pdb
+*.vcxproj*
+*.sln
